@@ -5,6 +5,7 @@ import java.util.InputMismatchException;
 import javax.swing.JOptionPane;
 
 public class Caluladora {
+	// Calculadora Simple Java
 	public static void main(String[] args) {
 
 		try {
